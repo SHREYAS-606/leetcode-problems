@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0392-is-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0692-top-k-frequent-words) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Trie
@@ -39,9 +40,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0392-is-subsequence) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Greedy
 |  |
 | ------- |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
