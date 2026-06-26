@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0454-4sum-ii](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0454-4sum-ii) |
 | [0692-top-k-frequent-words](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0692-top-k-frequent-words) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0454-4sum-ii](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0454-4sum-ii) |
 | [0692-top-k-frequent-words](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0692-top-k-frequent-words) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
 |  |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0692-top-k-frequent-words) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1704-determine-if-string-halves-are-alike) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Two Pointers
 |  |
