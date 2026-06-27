@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0692-top-k-frequent-words) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0454-4sum-ii) |
 | [0692-top-k-frequent-words](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0692-top-k-frequent-words) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
 |  |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0692-top-k-frequent-words) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Two Pointers
 |  |
@@ -94,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
+## Math
+|  |
+| ------- |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 <!---LeetCode Topics End-->
