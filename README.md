@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
+| [0238-product-of-array-except-self](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0454-4sum-ii](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0454-4sum-ii) |
 | [0692-top-k-frequent-words](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0692-top-k-frequent-words) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Union-Find
 |  |
