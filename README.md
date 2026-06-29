@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2574-left-and-right-sum-differences) |
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3843-first-element-with-unique-frequency](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3843-first-element-with-unique-frequency) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2284-sender-with-largest-word-count](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2284-sender-with-largest-word-count) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3843-first-element-with-unique-frequency](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3843-first-element-with-unique-frequency) |
 ## String
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2284-sender-with-largest-word-count](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2284-sender-with-largest-word-count) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3843-first-element-with-unique-frequency](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3843-first-element-with-unique-frequency) |
 ## Two Pointers
 |  |
 | ------- |
