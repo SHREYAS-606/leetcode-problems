@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0454-4sum-ii) |
 | [0692-top-k-frequent-words](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0692-top-k-frequent-words) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1991-find-the-middle-index-in-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1991-find-the-middle-index-in-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2109-adding-spaces-to-a-string) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2284-sender-with-largest-word-count](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2284-sender-with-largest-word-count) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0238-product-of-array-except-self) |
+| [1991-find-the-middle-index-in-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2574-left-and-right-sum-differences) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Union-Find
