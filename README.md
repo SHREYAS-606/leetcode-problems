@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0454-4sum-ii](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0454-4sum-ii) |
 | [0692-top-k-frequent-words](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0692-top-k-frequent-words) |
+| [0724-find-pivot-index](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0724-find-pivot-index) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1991-find-the-middle-index-in-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1991-find-the-middle-index-in-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2109-adding-spaces-to-a-string) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2574-left-and-right-sum-differences) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3737-count-subarrays-with-majority-element-i) |
