@@ -1,16 +1,17 @@
 class Solution {
 public:
     int sumOfUnique(vector<int>& nums) {
-        unordered_map<int,int> mpp;
-        for(int x:nums){
-            mpp[x]++;
+       int freq[101] = {0};
+
+        for (int x : nums)
+            freq[x]++;
+
+        int ans = 0;
+        for (int i = 1; i <= 100; i++) {
+            if (freq[i] == 1)
+                ans += i;
         }
-        int ans=0;
-        for(auto &it:mpp){
-            if(it.second==1){
-                ans+=it.first;
-            }
-        }
+
         return ans;
     }
 };
