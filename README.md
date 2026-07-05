@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0454-4sum-ii) |
 | [0692-top-k-frequent-words](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0724-find-pivot-index) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -162,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+## Binary Search
+|  |
+| ------- |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->
