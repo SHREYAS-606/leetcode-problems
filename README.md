@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3663-find-the-least-frequent-digit](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3663-find-the-least-frequent-digit) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Simulation
 |  |
 | ------- |
@@ -189,4 +190,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0204-count-primes) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 <!---LeetCode Topics End-->
