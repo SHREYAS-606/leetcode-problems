@@ -10,8 +10,9 @@ public:
         return sum;
     }
     int sumOfPrimesInRange(int n) {
-        int high=max(n,reverseNum(n));
-        int low=min(n,reverseNum(n));
+        int x=reverseNum(n);
+        int high=max(n,x);
+        int low=min(n,x);
         vector<int> isPrime(high+1,1);
         isPrime[0]=0;
         isPrime[1]=0;
