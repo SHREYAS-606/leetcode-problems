@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3663-find-the-least-frequent-digit) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3765-complete-prime-number](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3765-complete-prime-number) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Simulation
 |  |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0204-count-primes) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [3765-complete-prime-number](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3765-complete-prime-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -200,5 +202,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0204-count-primes) |
 | [3115-maximum-prime-difference](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3115-maximum-prime-difference) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3765-complete-prime-number](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3765-complete-prime-number) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 <!---LeetCode Topics End-->
