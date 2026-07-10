@@ -19,7 +19,7 @@ public:
                 if(sum+i<=n){
                  sum+=i;
                  if(isPrime[sum]){
-                    maxi=sum>maxi?sum:maxi;
+                    maxi=sum;
                  }
                 }else{
                     return maxi;
