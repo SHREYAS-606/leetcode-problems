@@ -1,6 +1,7 @@
 class Solution {
 public:
     vector<int> findOriginalArray(vector<int>& changed) {
+        if (changed.size() % 2) return {};
         unordered_map<int,int> mpp;
         vector<int> ans;
         for(int x:changed){
