@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0367-valid-perfect-square) |
 | [0728-self-dividing-numbers](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1952-three-divisors](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2523-closest-prime-numbers-in-range](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2523-closest-prime-numbers-in-range) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0204-count-primes) |
+| [1952-three-divisors](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1952-three-divisors) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2761-prime-pairs-with-target-sum](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2761-prime-pairs-with-target-sum) |
 | [3765-complete-prime-number](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3765-complete-prime-number) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0204-count-primes) |
+| [1952-three-divisors](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2523-closest-prime-numbers-in-range) |
 | [2761-prime-pairs-with-target-sum](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2761-prime-pairs-with-target-sum) |
