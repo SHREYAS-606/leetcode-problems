@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2364-count-number-of-bad-pairs](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2364-count-number-of-bad-pairs) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3663-find-the-least-frequent-digit) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3340-check-balanced-string](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3340-check-balanced-string) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3813-vowel-consonant-score](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3813-vowel-consonant-score) |
 ## Trie
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2364-count-number-of-bad-pairs](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2364-count-number-of-bad-pairs) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3663-find-the-least-frequent-digit) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3737-count-subarrays-with-majority-element-i) |
