@@ -2,7 +2,7 @@ class Solution {
 public:
     int maxFreqSum(string s) {
         vector<int> freq(26,0);
-        set<char> st={'a','e','i','o','u'};
+        
         for(char x:s){
             freq[x-'a']++;
         }
@@ -10,7 +10,7 @@ public:
         int cmax=INT_MIN;
         for(int i=0;i<26;i++){
             char c=i+'a';
-            if(st.find(c)!=st.end()){
+            if (c=='a' || c=='e' || c=='i' || c=='o' || c=='u'){
                 vmax=vmax>freq[i]?vmax:freq[i];
                 continue;
             }
