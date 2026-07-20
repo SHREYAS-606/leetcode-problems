@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2284-sender-with-largest-word-count](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2284-sender-with-largest-word-count) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2390-removing-stars-from-a-string](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2390-removing-stars-from-a-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2785-sort-vowels-in-a-string](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2785-sort-vowels-in-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1544-make-the-string-great](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1544-make-the-string-great) |
+| [2390-removing-stars-from-a-string](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2390-removing-stars-from-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2109-adding-spaces-to-a-string) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2295-replace-elements-in-an-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2295-replace-elements-in-an-array) |
+| [2390-removing-stars-from-a-string](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2390-removing-stars-from-a-string) |
 | [3813-vowel-consonant-score](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3813-vowel-consonant-score) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
