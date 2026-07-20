@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0392-is-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0692-top-k-frequent-words) |
+| [0844-backspace-string-compare](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0844-backspace-string-compare) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0392-is-subsequence) |
+| [0844-backspace-string-compare](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0844-backspace-string-compare) |
 | [2109-adding-spaces-to-a-string](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2109-adding-spaces-to-a-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0844-backspace-string-compare) |
 | [1544-make-the-string-great](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1544-make-the-string-great) |
 | [2390-removing-stars-from-a-string](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2390-removing-stars-from-a-string) |
 ## Divide and Conquer
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1929-concatenation-of-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2109-adding-spaces-to-a-string) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
