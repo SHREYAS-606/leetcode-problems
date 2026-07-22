@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0204-count-primes) |
+| [0263-ugly-number](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0367-valid-perfect-square) |
 | [0728-self-dividing-numbers](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
