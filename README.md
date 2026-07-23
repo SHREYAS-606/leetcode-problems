@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1331-rank-transform-of-an-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0844-backspace-string-compare) |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1929-concatenation-of-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1929-concatenation-of-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2109-adding-spaces-to-a-string) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
