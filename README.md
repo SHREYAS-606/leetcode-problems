@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1991-find-the-middle-index-in-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2007-find-original-array-from-doubled-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2007-find-original-array-from-doubled-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2094-finding-3-digit-even-numbers) |
 | [2109-adding-spaces-to-a-string](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2109-adding-spaces-to-a-string) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1748-sum-of-unique-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2007-find-original-array-from-doubled-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2007-find-original-array-from-doubled-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2094-finding-3-digit-even-numbers) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2284-sender-with-largest-word-count](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2284-sender-with-largest-word-count) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0692-top-k-frequent-words) |
 | [1331-rank-transform-of-an-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1331-rank-transform-of-an-array) |
 | [2007-find-original-array-from-doubled-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2007-find-original-array-from-doubled-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2094-finding-3-digit-even-numbers) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2785-sort-vowels-in-a-string](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2785-sort-vowels-in-a-string) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1952-three-divisors) |
+| [2094-finding-3-digit-even-numbers](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2094-finding-3-digit-even-numbers) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2427-number-of-common-factors](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2427-number-of-common-factors) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2443-sum-of-number-and-its-reverse) |
@@ -314,4 +318,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2906-construct-product-matrix](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2906-construct-product-matrix) |
+## Recursion
+|  |
+| ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2094-finding-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
