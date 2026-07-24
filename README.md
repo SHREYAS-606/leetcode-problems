@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0454-4sum-ii](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0454-4sum-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0692-top-k-frequent-words) |
 | [1331-rank-transform-of-an-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1331-rank-transform-of-an-array) |
 | [2007-find-original-array-from-doubled-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2007-find-original-array-from-doubled-array) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0367-valid-perfect-square) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1344-angle-between-hands-of-a-clock) |
