@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0392-is-subsequence) |
+| [0537-complex-number-multiplication](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0537-complex-number-multiplication) |
 | [0692-top-k-frequent-words](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0692-top-k-frequent-words) |
 | [0844-backspace-string-compare](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0844-backspace-string-compare) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0367-valid-perfect-square) |
+| [0537-complex-number-multiplication](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0537-complex-number-multiplication) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0537-complex-number-multiplication](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0537-complex-number-multiplication) |
 | [0844-backspace-string-compare](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0844-backspace-string-compare) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1929-concatenation-of-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1929-concatenation-of-array) |
