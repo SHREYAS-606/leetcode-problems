@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1544-make-the-string-great) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2109-adding-spaces-to-a-string](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2109-adding-spaces-to-a-string) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2255-count-prefixes-of-a-given-string) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1952-three-divisors](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
