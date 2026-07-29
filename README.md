@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0985-sum-of-even-numbers-after-queries](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1004-max-consecutive-ones-iii](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1248-count-number-of-nice-subarrays](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0930-binary-subarrays-with-sum](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1248-count-number-of-nice-subarrays](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1331-rank-transform-of-an-array) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1991-find-the-middle-index-in-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2574-left-and-right-sum-differences) |
 | [2906-construct-product-matrix](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2906-construct-product-matrix) |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1248-count-number-of-nice-subarrays](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -349,4 +353,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1248-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
