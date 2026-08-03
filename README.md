@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2284-sender-with-largest-word-count](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2284-sender-with-largest-word-count) |
 | [2295-replace-elements-in-an-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2295-replace-elements-in-an-array) |
 | [2364-count-number-of-bad-pairs](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2364-count-number-of-bad-pairs) |
+| [2399-check-distances-between-same-letters](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2399-check-distances-between-same-letters) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2465-number-of-distinct-averages](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2465-number-of-distinct-averages) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2295-replace-elements-in-an-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2295-replace-elements-in-an-array) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2364-count-number-of-bad-pairs](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2364-count-number-of-bad-pairs) |
+| [2399-check-distances-between-same-letters](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2399-check-distances-between-same-letters) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2465-number-of-distinct-averages](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2465-number-of-distinct-averages) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2287-rearrange-characters-to-make-target-string](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2390-removing-stars-from-a-string](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2390-removing-stars-from-a-string) |
+| [2399-check-distances-between-same-letters](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2399-check-distances-between-same-letters) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2785-sort-vowels-in-a-string) |
