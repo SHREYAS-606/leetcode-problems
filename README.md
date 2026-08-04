@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3618-split-array-by-prime-indices](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3618-split-array-by-prime-indices) |
 | [3663-find-the-least-frequent-digit](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3663-find-the-least-frequent-digit) |
+| [3731-find-missing-elements](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3843-first-element-with-unique-frequency](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3843-first-element-with-unique-frequency) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3663-find-the-least-frequent-digit) |
+| [3731-find-missing-elements](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3843-first-element-with-unique-frequency](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3843-first-element-with-unique-frequency) |
 ## String
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2785-sort-vowels-in-a-string](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2785-sort-vowels-in-a-string) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3731-find-missing-elements](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
 |  |
