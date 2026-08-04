@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<int> findMissingElements(vector<int>& nums) {
-        set<int> st;
+        unordered_set<int> st;
         int max=INT_MIN;
         int min=INT_MAX;
         for(int x:nums){
