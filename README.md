@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2906-construct-product-matrix) |
 | [3115-maximum-prime-difference](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3115-maximum-prime-difference) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3206-alternating-groups-i](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3206-alternating-groups-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [3206-alternating-groups-i](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3206-alternating-groups-i) |
 ## Ordered Set
 |  |
 | ------- |
