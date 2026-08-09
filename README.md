@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2399-check-distances-between-same-letters](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2399-check-distances-between-same-letters) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2465-number-of-distinct-averages](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2465-number-of-distinct-averages) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2574-left-and-right-sum-differences) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2399-check-distances-between-same-letters](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2399-check-distances-between-same-letters) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2465-number-of-distinct-averages](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2465-number-of-distinct-averages) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3206-alternating-groups-i](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3206-alternating-groups-i) |
 ## Ordered Set
