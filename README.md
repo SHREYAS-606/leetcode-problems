@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0204-count-primes](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0454-4sum-ii](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0454-4sum-ii) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0713-subarray-product-less-than-k](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0724-find-pivot-index) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0367-valid-perfect-square](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0367-valid-perfect-square) |
 | [0713-subarray-product-less-than-k](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -418,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0904-fruit-into-baskets) |
