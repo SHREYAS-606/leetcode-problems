@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3206-alternating-groups-i](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3206-alternating-groups-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3364-minimum-positive-sum-subarray](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3364-minimum-positive-sum-subarray) |
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
 | [3477-fruits-into-baskets-ii](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3477-fruits-into-baskets-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3483-unique-3-digit-even-numbers) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2574-left-and-right-sum-differences) |
 | [2906-construct-product-matrix](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2906-construct-product-matrix) |
+| [3364-minimum-positive-sum-subarray](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3364-minimum-positive-sum-subarray) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Union-Find
 |  |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2799-count-complete-subarrays-in-an-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [3206-alternating-groups-i](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3206-alternating-groups-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3364-minimum-positive-sum-subarray) |
 ## Ordered Set
 |  |
 | ------- |
