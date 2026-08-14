@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2465-number-of-distinct-averages) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3483-unique-3-digit-even-numbers) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2785-sort-vowels-in-a-string) |
 | [2810-faulty-keyboard](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2810-faulty-keyboard) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3340-check-balanced-string](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3340-check-balanced-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3206-alternating-groups-i](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3206-alternating-groups-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3364-minimum-positive-sum-subarray) |
 ## Ordered Set
