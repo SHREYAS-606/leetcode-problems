@@ -2,41 +2,26 @@ class Solution {
 public:
     int largestInteger(vector<int>& nums, int k) {
         int n = nums.size();
+        vector<int> cnt(51, 0);
 
-        vector<int> left(51, -1);
-        vector<int> right(51, -1);
-        vector<int> total(51, 0);
+        for (int i = 0; i <= n - k; i++) {
+            bool seen[51] = {};
 
-        for (int i = 0; i < n; i++) {
-            int x = nums[i];
-
-            int l = max(0, i - k + 1);
-            int r = min(i, n - k);
-
-            if (left[x] == -1) {
-                left[x] = l;
-                right[x] = r;
+            for (int j = i; j < i + k; j++) {
+                seen[nums[j]] = true;
             }
-            else if (l <= right[x] + 1) {
-                right[x] = max(right[x], r);
-            }
-            else {
-                total[x] += right[x] - left[x] + 1;
-                left[x] = l;
-                right[x] = r;
+
+            for (int x = 0; x <= 50; x++) {
+                if (seen[x])
+                    cnt[x]++;
             }
         }
 
-        int ans = -1;
-
-        for (int x = 0; x <= 50; x++) {
-            if (left[x] != -1)
-                total[x] += right[x] - left[x] + 1;
-
-            if (total[x] == 1)
-                ans = x;
+        for (int x = 50; x >= 0; x--) {
+            if (cnt[x] == 1)
+                return x;
         }
 
-        return ans;
+        return -1;
     }
 };
