@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0992-subarrays-with-k-different-integers) |
+| [1002-find-common-characters](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1248-count-number-of-nice-subarrays) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0992-subarrays-with-k-different-integers) |
+| [1002-find-common-characters](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1002-find-common-characters) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1331-rank-transform-of-an-array) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0844-backspace-string-compare) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0917-reverse-only-letters](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0917-reverse-only-letters) |
+| [1002-find-common-characters](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1002-find-common-characters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1108-defanging-an-ip-address) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
