@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0303-range-sum-query-immutable) |
+| [0313-super-ugly-number](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0313-super-ugly-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0454-4sum-ii](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0454-4sum-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0264-ugly-number-ii) |
+| [0313-super-ugly-number](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0313-super-ugly-number) |
 | [0392-is-subsequence](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0397-integer-replacement) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0264-ugly-number-ii) |
+| [0313-super-ugly-number](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0313-super-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0367-valid-perfect-square) |
 | [0537-complex-number-multiplication](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0537-complex-number-multiplication) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
