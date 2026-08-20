@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2906-construct-product-matrix](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2906-construct-product-matrix) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3115-maximum-prime-difference](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3115-maximum-prime-difference) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3206-alternating-groups-i](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3206-alternating-groups-i) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2295-replace-elements-in-an-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2295-replace-elements-in-an-array) |
 | [2390-removing-stars-from-a-string](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2390-removing-stars-from-a-string) |
 | [2810-faulty-keyboard](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2810-faulty-keyboard) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3477-fruits-into-baskets-ii) |
 | [3813-vowel-consonant-score](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3813-vowel-consonant-score) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
