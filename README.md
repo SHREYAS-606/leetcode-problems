@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3618-split-array-by-prime-indices](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3618-split-array-by-prime-indices) |
 | [3663-find-the-least-frequent-digit](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3663-find-the-least-frequent-digit) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3663-find-the-least-frequent-digit) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3843-first-element-with-unique-frequency](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3843-first-element-with-unique-frequency) |
