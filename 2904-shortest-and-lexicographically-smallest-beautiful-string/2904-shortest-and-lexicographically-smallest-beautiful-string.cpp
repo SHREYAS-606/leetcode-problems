@@ -8,7 +8,7 @@ public:
         string st="";
         string ans="";
         while(r<n){
-            st+=s[r];
+            st = s.substr(l, r - l + 1);
             kcount+=s[r]-'0';
             
             if(kcount==k){
@@ -17,15 +17,16 @@ public:
                 }
             }
             while(l<=r && kcount>=k){
-                kcount-=(st[0]-'0');
-                st.erase(0, 1);
+                kcount-=(s[l]-'0');
+                l++;
 
                 if(kcount==k){
+                st = s.substr(l, r - l + 1);
                 if(st.size()<ans.size()||ans==""||(st.size()==ans.size()&& st<ans)){
                        ans=st;
                 }
                 }
-                l++;
+                
 
             }
             r++;
