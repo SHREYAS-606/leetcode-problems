@@ -1,7 +1,7 @@
 class Solution {
    
 public:
-    void rec(int i,vector<int> nums,vector<vector<int>> &ans,vector<int> temp){
+    void rec(int i,vector<int> &nums,vector<vector<int>> &ans,vector<int> &temp){
         if(i>=nums.size()){
             ans.push_back(temp);
             return;
