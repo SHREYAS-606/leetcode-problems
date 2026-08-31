@@ -532,4 +532,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0078-subsets](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0090-subsets-ii) |
+## Linked List
+|  |
+| ------- |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 <!---LeetCode Topics End-->
