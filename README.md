@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3843-first-element-with-unique-frequency](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3843-first-element-with-unique-frequency) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3783-mirror-distance-of-an-integer](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3783-mirror-distance-of-an-integer) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Simulation
 |  |
