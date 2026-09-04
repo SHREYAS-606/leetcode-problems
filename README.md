@@ -380,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2523-closest-prime-numbers-in-range](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2523-closest-prime-numbers-in-range) |
+| [2544-alternating-digit-sum](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2544-alternating-digit-sum) |
 | [2761-prime-pairs-with-target-sum](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2761-prime-pairs-with-target-sum) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3099-harshad-number](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3099-harshad-number) |
