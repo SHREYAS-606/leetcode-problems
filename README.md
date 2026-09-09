@@ -412,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3783-mirror-distance-of-an-integer](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3783-mirror-distance-of-an-integer) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
