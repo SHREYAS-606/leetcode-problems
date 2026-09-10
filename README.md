@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1748-sum-of-unique-elements](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1748-sum-of-unique-elements) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0509-fibonacci-number) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Stack
 |  |
@@ -530,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2799-count-complete-subarrays-in-an-array) |
