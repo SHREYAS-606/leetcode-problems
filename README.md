@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1748-sum-of-unique-elements) |
+| [1763-longest-nice-substring](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1763-longest-nice-substring) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2007-find-original-array-from-doubled-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2007-find-original-array-from-doubled-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2094-finding-3-digit-even-numbers) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1544-make-the-string-great) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1763-longest-nice-substring](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1763-longest-nice-substring) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1927-sum-game](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1927-sum-game) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2024-maximize-the-confusion-of-an-exam) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [1763-longest-nice-substring](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1763-longest-nice-substring) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -504,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0371-sum-of-two-integers) |
 | [0397-integer-replacement](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0397-integer-replacement) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1763-longest-nice-substring](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1763-longest-nice-substring) |
 | [2351-first-letter-to-appear-twice](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
@@ -541,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1763-longest-nice-substring](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1763-longest-nice-substring) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2024-maximize-the-confusion-of-an-exam) |
