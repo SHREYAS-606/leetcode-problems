@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3364-minimum-positive-sum-subarray](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3364-minimum-positive-sum-subarray) |
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3477-fruits-into-baskets-ii](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3477-fruits-into-baskets-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3483-unique-3-digit-even-numbers) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3232-find-if-digit-game-can-be-won](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3618-split-array-by-prime-indices](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3618-split-array-by-prime-indices) |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2761-prime-pairs-with-target-sum](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2761-prime-pairs-with-target-sum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3765-complete-prime-number](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3765-complete-prime-number) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
@@ -500,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2523-closest-prime-numbers-in-range](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2523-closest-prime-numbers-in-range) |
 | [2761-prime-pairs-with-target-sum](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2761-prime-pairs-with-target-sum) |
 | [3115-maximum-prime-difference](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3115-maximum-prime-difference) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3618-split-array-by-prime-indices](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3618-split-array-by-prime-indices) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -570,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3206-alternating-groups-i](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3206-alternating-groups-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Ordered Set
 |  |
 | ------- |
