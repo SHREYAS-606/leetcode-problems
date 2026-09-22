@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
+| [0179-largest-number](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
+| [0179-largest-number](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0187-repeated-dna-sequences) |
 | [0392-is-subsequence](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0088-merge-sorted-array) |
+| [0179-largest-number](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0179-largest-number) |
 | [0397-integer-replacement](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0397-integer-replacement) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1927-sum-game](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1927-sum-game) |
