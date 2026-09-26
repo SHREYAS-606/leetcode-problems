@@ -643,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0620-not-boring-movies) |
 | [1729-find-followers-count](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1757-recyclable-and-low-fat-products) |
+| [1873-calculate-special-bonus](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1873-calculate-special-bonus) |
 ## Doubly-Linked List
 |  |
 | ------- |
