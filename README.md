@@ -647,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0619-biggest-single-number](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0627-swap-sex-of-employees) |
+| [1683-invalid-tweets](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1757-recyclable-and-low-fat-products) |
 | [1873-calculate-special-bonus](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1873-calculate-special-bonus) |
