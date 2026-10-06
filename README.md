@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0856-score-of-parentheses) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0917-reverse-only-letters](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0917-reverse-only-letters) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1002-find-common-characters](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1002-find-common-characters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1108-defanging-an-ip-address) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0179-largest-number) |
 | [0397-integer-replacement](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0397-integer-replacement) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1927-sum-game](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1927-sum-game) |
 | [2007-find-original-array-from-doubled-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2007-find-original-array-from-doubled-array) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0032-longest-valid-parentheses) |
 | [0844-backspace-string-compare](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1544-make-the-string-great](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1544-make-the-string-great) |
@@ -692,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
