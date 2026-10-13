@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3663-find-the-least-frequent-digit](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3663-find-the-least-frequent-digit) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2785-sort-vowels-in-a-string](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2785-sort-vowels-in-a-string) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2007-find-original-array-from-doubled-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2007-find-original-array-from-doubled-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Dynamic Programming
 |  |
 | ------- |
