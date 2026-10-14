@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1572-matrix-diagonal-sum](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1572-matrix-diagonal-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1695-maximum-erasure-value](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1695-maximum-erasure-value) |
 | [1748-sum-of-unique-elements](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1748-sum-of-unique-elements) |
@@ -579,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1572-matrix-diagonal-sum](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1572-matrix-diagonal-sum) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2643-row-with-maximum-ones](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2643-row-with-maximum-ones) |
 | [2906-construct-product-matrix](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2906-construct-product-matrix) |
