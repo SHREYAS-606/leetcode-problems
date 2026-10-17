@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0179-largest-number](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0032-longest-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0844-backspace-string-compare](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0012-integer-to-roman) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0264-ugly-number-ii) |
