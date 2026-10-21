@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2906-construct-product-matrix) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3024-type-of-triangle](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3024-type-of-triangle) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3115-maximum-prime-difference](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3115-maximum-prime-difference) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2465-number-of-distinct-averages) |
 | [2785-sort-vowels-in-a-string](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2785-sort-vowels-in-a-string) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3024-type-of-triangle](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3024-type-of-triangle) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3731-find-missing-elements) |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2652-sum-multiples) |
 | [2761-prime-pairs-with-target-sum](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2761-prime-pairs-with-target-sum) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3024-type-of-triangle](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3024-type-of-triangle) |
 | [3099-harshad-number](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3099-harshad-number) |
 | [3115-maximum-prime-difference](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3115-maximum-prime-difference) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -747,4 +750,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
