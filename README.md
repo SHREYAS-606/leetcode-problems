@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2799-count-complete-subarrays-in-an-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
+| [2869-minimum-operations-to-collect-elements](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2906-construct-product-matrix](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2906-construct-product-matrix) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2465-number-of-distinct-averages) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
+| [2869-minimum-operations-to-collect-elements](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -594,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0832-flipping-an-image) |
 | [1763-longest-nice-substring](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1763-longest-nice-substring) |
 | [2351-first-letter-to-appear-twice](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
+| [2869-minimum-operations-to-collect-elements](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2869-minimum-operations-to-collect-elements) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Memoization
