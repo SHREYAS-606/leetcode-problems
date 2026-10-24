@@ -1,20 +1,23 @@
 class Solution {
 public:
     int minOperations(vector<int>& nums, int k) {
-        set<int> st;
-        int n=nums.size();
-         int l=0;
-        for(int i=n-1;i>=0;i--){
-            if(nums[i]<=k){
-                st.insert(nums[i]);
-            }
-            l++;
-            if(st.size()==k){
-                break;
+        bool seen[51] = {};
+        int count = 0;
+        int collected = 0;
+
+        for (int i = nums.size() - 1; i >= 0; i--) {
+            count++;
+
+            if (nums[i] <= k && !seen[nums[i]]) {
+                seen[nums[i]] = true;
+                collected++;
             }
 
+            if (collected == k)
+                return count;
         }
-        return l;
+
+        return count;
 
     }
 };
