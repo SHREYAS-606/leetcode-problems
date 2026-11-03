@@ -486,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1232-check-if-it-is-a-straight-line](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1486-xor-operation-in-an-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1486-xor-operation-in-an-array) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1927-sum-game](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1927-sum-game) |
@@ -616,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0397-integer-replacement) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0832-flipping-an-image](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0832-flipping-an-image) |
+| [1486-xor-operation-in-an-array](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1486-xor-operation-in-an-array) |
 | [1763-longest-nice-substring](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1763-longest-nice-substring) |
 | [2351-first-letter-to-appear-twice](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2869-minimum-operations-to-collect-elements) |
