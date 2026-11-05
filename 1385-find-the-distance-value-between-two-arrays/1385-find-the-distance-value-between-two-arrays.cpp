@@ -10,6 +10,7 @@ public:
                  if(abs(arr1[i]-arr2[j])<=d){
                      is=0;
                  }
+                 
             }
             if(is){
                 cnt++;
