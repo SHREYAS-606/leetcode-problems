@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0454-4sum-ii) |
 | [0692-top-k-frequent-words](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0692-top-k-frequent-words) |
 | [0706-design-hashmap](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0706-design-hashmap) |
+| [0771-jewels-and-stones](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0904-fruit-into-baskets](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0930-binary-subarrays-with-sum) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0537-complex-number-multiplication](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0537-complex-number-multiplication) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0692-top-k-frequent-words](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0692-top-k-frequent-words) |
+| [0771-jewels-and-stones](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0771-jewels-and-stones) |
 | [0821-shortest-distance-to-a-character](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0856-score-of-parentheses) |
