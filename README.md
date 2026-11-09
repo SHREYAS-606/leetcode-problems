@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0443-string-compression) |
+| [0459-repeated-substring-pattern](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0459-repeated-substring-pattern) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0537-complex-number-multiplication](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0537-complex-number-multiplication) |
 | [0541-reverse-string-ii](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0541-reverse-string-ii) |
@@ -711,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0187-repeated-dna-sequences) |
+| [0459-repeated-substring-pattern](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0459-repeated-substring-pattern) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
@@ -811,4 +813,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/SHREYAS-606/leetcode-problems/tree/master/1791-find-center-of-star-graph) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
