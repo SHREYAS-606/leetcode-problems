@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2785-sort-vowels-in-a-string](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2785-sort-vowels-in-a-string) |
 | [2810-faulty-keyboard](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2810-faulty-keyboard) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/SHREYAS-606/leetcode-problems/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/SHREYAS-606/leetcode-problems/tree/master/3120-count-the-number-of-special-characters-i) |
