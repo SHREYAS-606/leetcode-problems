@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0454-4sum-ii) |
 | [0496-next-greater-element-i](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0567-permutation-in-string](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0692-top-k-frequent-words) |
 | [0706-design-hashmap](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0706-design-hashmap) |
 | [0771-jewels-and-stones](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0771-jewels-and-stones) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0537-complex-number-multiplication](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0537-complex-number-multiplication) |
 | [0541-reverse-string-ii](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0692-top-k-frequent-words) |
 | [0771-jewels-and-stones](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0771-jewels-and-stones) |
 | [0821-shortest-distance-to-a-character](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0821-shortest-distance-to-a-character) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0522-longest-uncommon-subsequence-ii](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0541-reverse-string-ii](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0658-find-k-closest-elements) |
 | [0821-shortest-distance-to-a-character](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0832-flipping-an-image) |
@@ -686,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0713-subarray-product-less-than-k) |
