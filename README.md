@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0575-distribute-candies](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0658-find-k-closest-elements) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0567-permutation-in-string](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0567-permutation-in-string) |
+| [0575-distribute-candies](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0575-distribute-candies) |
 | [0692-top-k-frequent-words](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0692-top-k-frequent-words) |
 | [0706-design-hashmap](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0706-design-hashmap) |
 | [0771-jewels-and-stones](https://github.com/SHREYAS-606/leetcode-problems/tree/master/0771-jewels-and-stones) |
