@@ -11,7 +11,6 @@ public:
 
             for (int j = i; j < n; j++) {
 
-                // If product is already too large, no longer possible
                 if (prod > LLONG_MAX / nums[j])
                     break;
 
